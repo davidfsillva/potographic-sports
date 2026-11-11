@@ -11,16 +11,21 @@
 ========================================= */
 
 :root {
-    --background: #080808;
-    --background-light: #111111;
-    --background-card: #151515;
+    --background: #090D1A;
+    --background-light: #101426;
+    --background-card: #171D33;
 
-    --white: #ffffff;
-    --text: #e8e8e8;
-    --muted: #929292;
+    --white: #F5F5FA;
+    --text: #E8EAF6;
+    --muted: #929BB5;
 
-    --gold: #F5F7FA;
-    --gold-light: #172033;
+    --gold: #FF4F9A;
+    --gold-light: #35DDEB;
+
+    --pink: #FF4F9A;
+    --cyan: #35DDEB;
+    --purple: #9B5DE5;
+    --orange: #FF9F43;
 
     --border: rgba(255, 255, 255, 0.12);
 
@@ -30,6 +35,11 @@
     --container-width: 1200px;
 
     --transition: 0.35s ease;
+
+    --radius-small: 8px;
+    --radius-medium: 14px;
+    --radius-large: 22px;
+    --radius-pill: 50px;
 }
 
 
